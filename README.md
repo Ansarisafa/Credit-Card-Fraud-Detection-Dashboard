@@ -25,7 +25,7 @@ This project focuses on analyzing credit card transaction data to detect fraudul
 * Transaction Amount
 * Fraud Status (0 = Normal, 1 = Fraud)
 * Multiple anonymized transaction attributes
-* https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
+* https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 ## Dashboard KPIs
 
 * Total Transactions
@@ -77,4 +77,5 @@ Data Analytics | Power BI Dashboard | Fraud Detection
 ![Uploading image.png…]()
 
 
-This project demonstrates skills in data cleaning, SQL analysis, and building interactive Power BI dashboards for fraud detection use cases.
+
+This project demonstrates skills in data cleaning, SQL analysis, and building interactive Power BI dashboardetection use cases.
